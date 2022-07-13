@@ -1,1 +1,3 @@
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+#Desafio dio praticando com flexbox
+
+Uma interface de login do site do instagram
